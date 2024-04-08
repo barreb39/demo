@@ -1,0 +1,13 @@
+# les fichiers à ignorer
+*.class
+
+# à part test.class
+!test.class
+
+# ignorer /bdd.properties
+/bdd.properties
+
+# ignorer tout les fichiers my.properties
+my.properties
+
+
