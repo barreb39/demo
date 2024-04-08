@@ -1,2 +1,3 @@
 je suis un collègue qui modifie origin/master (depuis github)
 # oui j'ai vu !!!
+j'ajoute en fait une fonctionnalité fctTruc qui fait des machins
